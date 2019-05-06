@@ -40,3 +40,23 @@ For starting Server Use:
 ```
 rails s
 ```
+
+## Commands
+
+> rails g devise:install [You Will Get Some Instruction For Further Setup]
+
+> rails g devise User
+
+> rails db:migrate
+
+> rails g devise:views
+
+## URL's
+
+> http://localhost:3000/users/sign_up [You Can Create A New Account]
+
+You Can Check Your Data By Draging And Droping `db/development.sqlite3` File To Your Sqlite Application
+
+## Issues You Might Face
+
+> [jquery](https://stackoverflow.com/questions/31102282/couldnt-find-file-jquery-with-type-application-javascript)
