@@ -5,20 +5,38 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+- Ruby version
 
-* System dependencies
+- System dependencies
 
-* Configuration
+- Configuration
 
-* Database creation
+- Database creation
 
-* Database initialization
+- Database initialization
 
-* How to run the test suite
+- How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+- Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+- Deployment instructions
 
-* ...
+- ...
+
+## installation
+
+> [Installation Guide](https://www.tutorialspoint.com/ruby-on-rails/rails-installation.htm)
+
+> [SQLite Browser](https://sqlitebrowser.org/) or [MSI setup](https://nightlies.sqlitebrowser.org/latest/)
+
+> [BootStrap](https://github.com/twbs/bootstrap-sass) README.md Read Complete Installation Steps There And Than At The Very Last Run 'bundle install' On Terminal
+
+- Gemfile [Put This Line Of Code There]
+  - gem 'bootstrap-sass', '~> 3.4.1'
+  - gem 'sassc-rails', '>= 2.1.0'
+
+For starting Server Use:
+
+```
+rails s
+```
