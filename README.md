@@ -57,6 +57,8 @@ rails s
 
 > http://localhost:3000/pages/home
 
+> http://localhost:3000/users/sign_in
+
 You Can Check Your Data By Draging And Droping `db/development.sqlite3` File To Your Sqlite Application
 
 ## Issues You Might Face
