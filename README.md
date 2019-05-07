@@ -67,4 +67,14 @@ You Can Check Your Data By Draging And Droping `db/development.sqlite3` File To 
 
 > [Bootstrap Static NavBar](https://getbootstrap.com/docs/3.4/examples/navbar-fixed-top/) Copy The Inspect Source
 
+> [!nodemon](https://stackoverflow.com/questions/36193387/restart-rails-server-automatically-after-every-change-in-controllers) For Automatic Server Start
+
+for nodemon startup command
+
+```
+nodemon -L --exec "./rails.sh"
+```
+
 > rails g controller Pages home
+
+> gem install solargraph [for VsCode Extension]
