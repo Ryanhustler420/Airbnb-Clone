@@ -80,3 +80,7 @@ nodemon -L --exec "./rails.sh"
 > rails g controller Pages home
 
 > gem install solargraph [for VsCode Extension]
+
+> rails g migration AddFullnameToUser fullname:string [make sure you type exectly the way written here]
+
+> rails db:migrate [check sqlite for to confirm that filed inserted into User Modal]
