@@ -64,3 +64,14 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'bootstrap-sass', '~> 3.4.1'
 # gem 'sassc-rails', '>= 2.1.0' sass is already there on the top
+
+gem 'toastr-rails', '~> 1.0'
+
+
+
+
+
+
+
+
+# Run bundle install each time you put something in this file except comments
