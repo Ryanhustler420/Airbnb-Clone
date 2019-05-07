@@ -79,6 +79,8 @@ You Can Check Your Data By Draging And Droping `db/development.sqlite3` File To 
 
 > [!nodemon](https://stackoverflow.com/questions/36193387/restart-rails-server-automatically-after-every-change-in-controllers) For Automatic Server Start
 
+> [toastr Docs](https://github.com/tylergannon/toastr-rails)
+
 for nodemon startup command
 
 ```
