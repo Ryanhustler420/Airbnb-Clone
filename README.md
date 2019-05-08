@@ -83,6 +83,8 @@ You Can Check Your Data By Draging And Droping `db/development.sqlite3` File To 
 
 > [mainGun](https://www.mailgun.com/) [for mail server]
 
+> [create Facebook App For Auth](https://developers.facebook.com) Create A New App and Add Platform As Web and Site URL set to 'http://localhost:3000'
+
 for nodemon startup command
 
 ```
