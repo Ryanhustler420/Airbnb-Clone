@@ -81,6 +81,8 @@ You Can Check Your Data By Draging And Droping `db/development.sqlite3` File To 
 
 > [toastr Docs](https://github.com/tylergannon/toastr-rails)
 
+> [mainGun](https://www.mailgun.com/) [for mail server]
+
 for nodemon startup command
 
 ```
