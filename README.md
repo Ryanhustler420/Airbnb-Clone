@@ -59,13 +59,15 @@ You Just Have To Add \_path at the end of every route
 
 ## URL's in Use
 
-> http://localhost:3000/users/sign_up [You Can Create A New Account]
+> http://localhost:3000/registration [You Can Create A New Account]
 
-> http://localhost:3000/pages/home
+> http://localhost:3000/
 
-> http://localhost:3000/users/sign_in
+> http://localhost:3000/login
 
-> http://localhost:3000/users/edit
+> http://localhost:3000/profile
+
+NOTE:- Path Replaced inside ``config/routes.rb``
 
 You Can Check Your Data By Draging And Droping `db/development.sqlite3` File To Your Sqlite Application
 
